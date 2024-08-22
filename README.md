@@ -20,4 +20,7 @@
 * Verificacion de funcionalidad.
 * Verificacion de compatibilidad.
 * Documentacion de resultados.
-* Informe final. 
+* Informe final.
+
+## QA Asignado:
+* Santiago Lopera Montoya.
