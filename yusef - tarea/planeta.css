@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    height: 555px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    background-image: url(https://st4.depositphotos.com/4413287/21211/i/450/depositphotos_212118476-stock-photo-snowfall-black-background.jpg);
+}
+
+
